@@ -1,0 +1,27 @@
+
+
+ELEMENTOS X OPERAÇÕES
+
+	  Elementos: (), [], {};
+
+	  Operações: *, /, +, -;
+
+
+Ordem de resolução:
+      Elementos -	() > [] > {}
+
+      Operações -	'* e /' > '+ e -'
+
+
+
+
+Expressões algébricas:
+	   - Presença de incógnitas				TODAS EXPRESSÕES ALGÉBRICAS APRESENTAM INCÓGNITAS, MAS NEM TUDO QUE APRESENTA INCÓGNITA É UMA EXP ALG
+	   - Sujeitas à fatoração, simplificação, extensão etc.
+
+
+
+Fatoração e desenvolvimento:
+	  Fatorar
+		- Transformar em fatores, partes de uma multiplicação gerando o mesmo produto
+		
