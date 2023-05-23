@@ -1,6 +1,6 @@
 # Vestibas
 
-Vestibas, ou Projeto Vestibas, é um repositório de aulas e textos com o foco em exatas de vestibulares. O objetivo é proporcionar uma educação livre, gratuita e colaborativa para estudantes, abordando os conteúdos com profundidade. Feito por neurodivergentes, para neurodivergentes.
+Vestibas, ou Projeto Vestibas, é um repositório de aulas e textos com o foco em exatas para vestibulares. O objetivo é proporcionar uma educação livre, gratuita e colaborativa para estudantes, abordando os conteúdos com profundidade. Feito por neurodivergentes, para neurodivergentes.
 
 Atualmente, a estrutura das aulas ainda não está plenamente definida.
 
