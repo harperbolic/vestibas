@@ -10,4 +10,4 @@ Essa repo contém todos os planejamentos e roteiros também utilizados nos víde
 ## Contribuindo
 
 Por enquanto o projeto tem apenas uma pessoa, mas qualquer tipo de contribuição para o material é muito bem-vinda!
-Desde correções ortográficas ou de conteúdo, como sugestões de maneiras melhores de se abortar determinado conteúdo e exercícios propostos.
+Desde correções ortográficas ou de conteúdo, como sugestões de maneiras melhores de se abordar determinado conteúdo e exercícios propostos.
